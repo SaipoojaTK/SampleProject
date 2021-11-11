@@ -15,8 +15,12 @@ garlic (grated)10 gramsginger (grated)
 5 gramsmint (finely chopped)10 grams
 cilantro (finely chopped1 tablespoon garam masala1/2 teaspoon
 ground cinnamon1 teaspoon salt900 grams
+<<<<<<< HEAD
 bone-in skin-less chicken thighs
 bone-in skin-less chicken thighs
+=======
+bone-in skin-on chicken thighs
+>>>>>>> 97701de7beee6c7a7cbf19fdb1443f8ad50a2fe9
 
 
 STEPS
